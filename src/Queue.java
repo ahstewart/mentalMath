@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-import static java.util.Arrays.deepToString;
+// import static java.util.Arrays.deepToString;
 
 public class Queue {
     // create a random instance
